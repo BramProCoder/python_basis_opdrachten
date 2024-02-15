@@ -4,4 +4,7 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = 
+
+fea,u,u7uyumj 
+htyhawdacvv
