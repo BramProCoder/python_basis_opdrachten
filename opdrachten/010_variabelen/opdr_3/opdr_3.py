@@ -2,8 +2,12 @@
 # Naam student:
 # Groep:
 
-# Hier komt je code...
+ 
+my_dict = {
+    "naam": "Willem",
+    "achternaam": "van der Broek",
+    "leeftijd": 23,
+    "Favorite kleur": "Blauw"
+}
 
-my_dict = ...
-
-print()
+print(my_dict)
